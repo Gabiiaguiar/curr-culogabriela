@@ -9,3 +9,10 @@
 3. Assistir séries diversas e discutir com meus amigos sobre
 4. Macarrão é a minha comida preferida 
 5. Meus gêneros musicais preferidos são: Indie, rock (70s,80s,90s), pop dos anos 2000, kpop e toda e qualquer música melancólica
+
+#### Ferramentas com as quais trabalhei
+
+* __BACK__:  Python
+* __FRONT__: HTML, CSS
+* __INFRA__: LINUX
+* __TOOL__: VSCODE
